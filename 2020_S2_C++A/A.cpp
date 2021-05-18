@@ -6,6 +6,7 @@ int main(){
         ans *= i;
         ans %= 10000;
     }
+    // ans = 9375
     cout << ans;
     return 0;
 }
